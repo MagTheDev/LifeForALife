@@ -1,0 +1,7 @@
+name: LifeForALife
+version: '${project.version}'
+main: dev.magthe.lifeforalife.LifeForALife
+api-version: 1.18
+commands:
+  health:
+    description: A command to manage hearts of players
